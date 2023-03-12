@@ -1,0 +1,4 @@
+main: cc.dreamcode.remove.effects.PluginPlatform
+name: DreamCode-RemoveEffects
+version: 0.1
+api-version: 1.13
